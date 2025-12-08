@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Science | Explore the Universe</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- External CSS File Link -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo" onclick="filterCategory('all')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#00f3ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 17L12 22L22 17" stroke="#bc13fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 12L12 17L22 12" stroke="#00f3ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                    DAILY SCIENCE
+                </a>
+                <ul class="nav-links">
+                    <li><a href="#latest" onclick="filterCategory('all')">Latest</a></li>
+                    <li><a href="#tech" onclick="filterCategory('Technology')">Tech</a></li>
+                    <li><a href="#space" onclick="filterCategory('Space')">Space</a></li>
+                    <li><a href="#ai" onclick="filterCategory('Artificial Intelligence')">AI</a></li>
+                </ul>
+                <button class="mobile-menu-btn" aria-label="Menu">☰</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero-content">
+            <h1>Explore the Universe<br>of Science</h1>
+            <p>Decoding the mysteries of the cosmos, one discovery at a time. From Quantum Computing to Martian colonies, we cover it all.</p>
+            <button class="cta-btn" onclick="document.getElementById('latest').scrollIntoView({behavior: 'smooth'})">Start Reading</button>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main id="latest" class="container">
+        <div class="section-header">
+            <h2 class="section-title">Latest Discoveries</h2>
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search topics (e.g., Mars, AI)...">
+                <button class="search-btn">🔍</button>
+            </div>
+        </div>
+        
+        <!-- Grid Container for JS Injection -->
+        <div class="blog-grid" id="blog-grid-container">
+            <!-- Cards will be inserted here by JavaScript -->
+             <p style="color: gray;">Loading posts...</p>
+        </div>
+    </main>
+
+    <!-- Newsletter Section -->
+    <section class="newsletter-section">
+        <div class="container">
+            <div class="newsletter-box">
+                <h3>Stay Updated</h3>
+                <p>Get the latest science breakthroughs delivered to your inbox.</p>
+                <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Subscribed!');">
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Article Modal -->
+    <div id="article-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeArticle()">&times;</button>
+            <img src="" alt="" class="modal-header-img" id="modal-img">
+            <div class="modal-body-container">
+                <div class="modal-meta">
+                    <span id="modal-category">CATEGORY</span>
+                    <span>•</span>
+                    <span id="modal-date">DATE</span>
+                </div>
+                <h2 class="modal-title" id="modal-title">Article Title</h2>
+                <div class="modal-text" id="modal-body">
+                    <!-- Full text injected here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>DAILY SCIENCE</h2>
+                    <p>Illuminating the dark corners of ignorance with the light of knowledge.</p>
+                </div>
+                <div class="social-links">
+                    <a href="#" class="social-icon">𝕏</a>
+                    <a href="#" class="social-icon">in</a>
+                    <a href="#" class="social-icon">fb</a>
+                </div>
+            </div>
+            <div class="copyright">
+                &copy; 2023 Daily Science. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <!-- External JS File Link -->
+    <script src="script.js"></script>
+</body>
+</html>
