@@ -25,59 +25,5 @@
         "summary": "A new variation of gene editing tools allows for temporary activation of genes without permanently altering the DNA sequence.",
         "fullContent": "<p>The genetic revolution continues with the announcement of \"CRISPR-off\" and \"CRISPR-on,\" new tools that allow scientists to control gene expression with unprecedented precision without permanently cutting the DNA strand.</p><p>Traditional CRISPR-Cas9 acts like molecular scissors, cutting DNA to add or remove genes. While powerful, this can introduce permanent errors. The new technique works more like a volume knob, turning genes up or down by adding chemical tags to the DNA, a process known as epigenetics.</p><p>This breakthrough has immense potential for treating diseases like Alzheimer's and various cancers, where the goal is to silence a harmful gene rather than remove it entirely. Best of all, the process is reversible.</p>",
         "date": "Oct 20, 2023"
-    },
-    {
-        "id": 4,
-        "title": "The AI Singularity Debate",
-        "category": "Artificial Intelligence",
-        "imageURL": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=600",
-        "summary": "Top researchers gather in Geneva to discuss the ethical implications and timeline of achieving Artificial General Intelligence (AGI).",
-        "fullContent": "<p>Is the \"Singularity\"—the point where AI surpasses human intelligence—imminent? That was the question at the heart of the Global AI Summit in Geneva this week.</p><p>Experts from leading tech companies and universities debated the timeline for AGI. Optimists predict we could see human-level AI within the decade, citing the rapid advancements in Large Language Models (LLMs). Skeptics argue that current AI lacks true understanding and reasoning capabilities.</p><p>Beyond the timeline, the summit focused heavily on safety. \"We are building minds that might one day outthink us,\" warned Dr. Sarah Connor, an AI ethicist. \"We need to ensure their goals align with human values before we flip the switch.\"</p>",
-        "date": "Oct 18, 2023"
-    },
-    {
-        "id": 5,
-        "title": "Dark Matter Map Revealed",
-        "category": "Astronomy",
-        "imageURL": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=600",
-        "summary": "Using AI and the James Webb Telescope, astronomers have created the most detailed map of dark matter distribution in our local cluster.",
-        "fullContent": "<p>Astronomers have unveiled a stunning new map of the invisible universe. By combining data from the James Webb Space Telescope with advanced AI algorithms, they have traced the distribution of dark matter in our local galaxy cluster with unprecedented clarity.</p><p>Dark matter doesn't emit light, but it exerts gravity. By observing how it bends light from distant galaxies—a phenomenon called gravitational lensing—scientists can infer its presence. The new map reveals a complex \"cosmic web\" that connects galaxies together.</p><p>This discovery confirms standard cosmological models but also reveals unexpected clumps of density that current theories struggle to explain, hinting at new physics waiting to be discovered.</p>",
-        "date": "Oct 15, 2023"
-    },
-    {
-        "id": 6,
-        "title": "Fusion Energy Breakthrough",
-        "category": "Energy",
-        "imageURL": "https://images.unsplash.com/photo-1473876637849-14a582312d8a?auto=format&fit=crop&q=80&w=600",
-        "summary": "National Ignition Facility repeats their net energy gain experiment with even higher yields, bringing commercial fusion one step closer.",
-        "fullContent": "<p>The dream of clean, limitless energy is inching closer to reality. Scientists at the National Ignition Facility (NIF) have successfully repeated their historic nuclear fusion ignition experiment, this time producing an even greater energy yield.</p><p>Fusion works by smashing hydrogen atoms together to form helium, releasing massive amounts of energy—the same process that powers the sun. Achieving \"ignition\" means the reaction produces more energy than was used to start it.</p><p>\"Consistency is key,\" said the program director. \"Doing it once was historic. Doing it twice proves it's not a fluke. We are now optimizing the process to make it commercially viable for power plants in the future.\"</p>",
-        "date": "Oct 12, 2023"
-    },
-    {
-        "id": 6,
-        "title": "Fusion Energy Breakthrough",
-        "category": "Energy",
-        "imageURL": "https://images.unsplash.com/photo-1473876637849-14a582312d8a?auto=format&fit=crop&q=80&w=600",
-        "summary": "National Ignition Facility repeats their net energy gain experiment with even higher yields, bringing commercial fusion one step closer.",
-        "fullContent": "<p>The dream of clean, limitless energy is inching closer to reality. Scientists at the National Ignition Facility (NIF) have successfully repeated their historic nuclear fusion ignition experiment, this time producing an even greater energy yield.</p><p>Fusion works by smashing hydrogen atoms together to form helium, releasing massive amounts of energy—the same process that powers the sun. Achieving \"ignition\" means the reaction produces more energy than was used to start it.</p><p>\"Consistency is key,\" said the program director. \"Doing it once was historic. Doing it twice proves it's not a fluke. We are now optimizing the process to make it commercially viable for power plants in the future.\"</p>",
-        "date": "Oct 12, 2023"
-    },
-    {
-        "id": 6,
-        "title": "Fusion Energy Breakthrough",
-        "category": "Energy",
-        "imageURL": "https://images.unsplash.com/photo-1473876637849-14a582312d8a?auto=format&fit=crop&q=80&w=600",
-        "summary": "National Ignition Facility repeats their net energy gain experiment with even higher yields, bringing commercial fusion one step closer.",
-        "fullContent": "<p>The dream of clean, limitless energy is inching closer to reality. Scientists at the National Ignition Facility (NIF) have successfully repeated their historic nuclear fusion ignition experiment, this time producing an even greater energy yield.</p><p>Fusion works by smashing hydrogen atoms together to form helium, releasing massive amounts of energy—the same process that powers the sun. Achieving \"ignition\" means the reaction produces more energy than was used to start it.</p><p>\"Consistency is key,\" said the program director. \"Doing it once was historic. Doing it twice proves it's not a fluke. We are now optimizing the process to make it commercially viable for power plants in the future.\"</p>",
-        "date": "Oct 12, 2023"
-    },
-    {
-        "id": 6,
-        "title": "Fusion Energy Breakthrough",
-        "category": "Energy",
-        "imageURL": "https://images.unsplash.com/photo-1473876637849-14a582312d8a?auto=format&fit=crop&q=80&w=600",
-        "summary": "National Ignition Facility repeats their net energy gain experiment with even higher yields, bringing commercial fusion one step closer.",
-        "fullContent": "<p>The dream of clean, limitless energy is inching closer to reality. Scientists at the National Ignition Facility (NIF) have successfully repeated their historic nuclear fusion ignition experiment, this time producing an even greater energy yield.</p><p>Fusion works by smashing hydrogen atoms together to form helium, releasing massive amounts of energy—the same process that powers the sun. Achieving \"ignition\" means the reaction produces more energy than was used to start it.</p><p>\"Consistency is key,\" said the program director. \"Doing it once was historic. Doing it twice proves it's not a fluke. We are now optimizing the process to make it commercially viable for power plants in the future.\"</p>",
-        "date": "Oct 12, 2023"
     }
 ]
