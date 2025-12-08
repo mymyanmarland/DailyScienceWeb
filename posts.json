@@ -7,23 +7,5 @@
         "summary": "Scientists have successfully teleported quantum information across a metropolitan network, paving the way for unhackable communications.",
         "fullContent": "<p>In a groundbreaking experiment, researchers have demonstrated the sustained teleportation of high-fidelity quantum qubits over a distance of 27 miles (44 kilometers). This achievement marks a significant step towards a practical quantum internet.</p><p>The quantum internet promises to revolutionize communication by providing a level of security that is theoretically unhackable. Unlike classical bits, which can be either 0 or 1, quantum bits (qubits) can exist in a superposition of both states simultaneously.</p><p>\"We are thrilled by these results,\" said Dr. Elena Rostova, lead physicist on the project. \"It moves us from the realm of theoretical physics into practical engineering. The fidelity of our teleportation remained above 90%, which is the threshold needed for a working network.\"</p><p>The next steps involve scaling this technology to create larger networks, potentially linking cities and eventually, continents. This could lead to a new era of secure banking, confidential government communications, and distributed quantum computing.</p>",
         "date": "Oct 24, 2023"
-    },
-    {
-        "id": 2,
-        "title": "Mars Colonization: The First Habitat",
-        "category": "Space",
-        "imageURL": "https://images.unsplash.com/photo-1614728853913-1e2203d8d311?auto=format&fit=crop&q=80&w=600",
-        "summary": "NASA reveals the final design for the 'Artemis Base Camp', a sustainable habitat intended to support the first human astronauts on Mars.",
-        "fullContent": "<p>NASA has officially unveiled the blueprints for the 'Artemis Base Camp', the first permanent human outpost on the Martian surface. The design focuses on sustainability, radiation protection, and psychological well-being for the astronauts.</p><p>The habitat will be constructed using 3D-printing technology, utilizing Martian regolith (soil) to build protective shells over inflatable living modules. This approach minimizes the amount of material that needs to be transported from Earth.</p><p>Key features include:</p><ul><li>Hydroponic gardens for food production and oxygen generation.</li><li>Advanced water recycling systems achieving 98% efficiency.</li><li>Underground sleeping quarters to shield against cosmic radiation.</li></ul><p>The first mission to construct the base is slated for the early 2030s, with human habitation expected by 2035. \"This isn't just a camping trip,\" says NASA Administrator Bill Nelson. \"This is the first step in humanity becoming a multi-planetary species.\"</p>",
-        "date": "Oct 22, 2023"
-    },
-    {
-        "id": 3,
-        "title": "CRISPR 2.0: Beyond Editing",
-        "category": "BioTech",
-        "imageURL": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=600",
-        "summary": "A new variation of gene editing tools allows for temporary activation of genes without permanently altering the DNA sequence.",
-        "fullContent": "<p>The genetic revolution continues with the announcement of \"CRISPR-off\" and \"CRISPR-on,\" new tools that allow scientists to control gene expression with unprecedented precision without permanently cutting the DNA strand.</p><p>Traditional CRISPR-Cas9 acts like molecular scissors, cutting DNA to add or remove genes. While powerful, this can introduce permanent errors. The new technique works more like a volume knob, turning genes up or down by adding chemical tags to the DNA, a process known as epigenetics.</p><p>This breakthrough has immense potential for treating diseases like Alzheimer's and various cancers, where the goal is to silence a harmful gene rather than remove it entirely. Best of all, the process is reversible.</p>",
-        "date": "Oct 20, 2023"
     }
 ]
